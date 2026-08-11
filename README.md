@@ -72,6 +72,7 @@ The dashboard follows Veekee James's real brand identity — a black-and-white b
 - Which silhouette generates the highest average order value?
 - Which states and channels bring in the most revenue?
 - How does payment plan choice affect deposit percentage?
+- Which sales consultants have the highest client ratings?
 - Where are the bottlenecks in order turnaround time?
 
 ## 📁 Data Note
